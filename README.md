@@ -4,6 +4,9 @@
 ## Overview
 This project aims to predict students' mental health, specifically their **Depression Scores**, using a dataset of academic, behavioral, and lifestyle factors. The goal is to develop a machine learning pipeline that identifies key contributors to mental health outcomes and provides actionable insights for early intervention. The project focuses primarily on a regression approach to predict depression scores, which are scaled from 0 to 5.
 
+## Source
+https://www.kaggle.com/datasets/sonia22222/students-mental-health-assessments/data
+
 The repository includes:
 1. Data preprocessing steps.
 2. Exploratory data analysis (EDA) visualizations.
