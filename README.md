@@ -30,12 +30,10 @@ To ensure reproducibility, the project was developed using **Python 3.10** and t
 1. **Data Preprocessing**: Ensure the dataset is correctly loaded and preprocessed according to the pipeline.
 2. **Exploratory Data Analysis (EDA)**: Run the provided scripts to visualize and analyze the data.
 3. **Model Training and Evaluation**: Use the pipeline to train, evaluate, and compare multiple machine learning models.
-4. **SHAP Analysis**: Visualize local and global feature importance using SHAP values.
+4. **Global and Local Feature Importance Analysis**: Visualize local and global feature importance using different techniques.
 
 All scripts are modularized and can be executed sequentially for a smooth workflow.
 
-## Results
-The project evaluates various machine learning models to predict depression scores, with performance metrics stored and compared across multiple random states. The insights from SHAP analysis highlight significant features influencing mental health outcomes, guiding future interventions.
 
 ## Contact
 For questions or feedback, please reach out to:
